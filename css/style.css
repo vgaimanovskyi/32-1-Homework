@@ -48,7 +48,7 @@ h1, h2 {
 
 .mainer {
   max-width: 1230px;
-  padding: 60px 15px;
+  padding: 60px 15px 30px 15px;
   margin: 0 auto;
   text-align: center;
 }
@@ -89,7 +89,7 @@ h1, h2 {
 
 .carousel {
   position: relative;
-  margin: 0 136px;
+  margin: 0 136px 60px 136px;
 }
 
 .carousel .slick-slide {

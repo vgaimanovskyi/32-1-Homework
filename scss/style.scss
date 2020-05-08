@@ -2,7 +2,7 @@
 
 .mainer {
     max-width: 1230px;
-    padding: 60px 15px;
+    padding: 60px 15px 30px 15px;
     margin: 0 auto;
     text-align: center;
 
@@ -40,7 +40,7 @@
 }
 .carousel {
     position: relative;
-    margin: 0 136px;
+    margin: 0 136px 60px 136px;
 
     .slick-slide {
         float: left;
@@ -63,7 +63,7 @@
         background-image: url(../images/arrow-prev.png);
         cursor: pointer;
         outline: none;
-        
+
         &.slick-prev {
             left: -96px;
         }
